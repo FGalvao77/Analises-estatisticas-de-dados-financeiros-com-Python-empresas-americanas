@@ -1,1 +1,1 @@
-# Analises-estatisticas-de-dados-financeiros-com-Python-empresas-americanas
+# Análises estatísticas de dados financeiros com Python | empresas americanas
